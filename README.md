@@ -11,5 +11,4 @@ A repository for learning GitHub.
 
 - 📫 Reach me via gsg6659@email.vccs.edu
 
-<img width="330" height="220" alt="image" src="https://github.com/user-attachments/assets/2193242b-e6a9-4172-bd84-97e6d7455906" />
 
