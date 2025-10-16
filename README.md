@@ -7,7 +7,7 @@ A repository for learning GitHub.
 
 - 🌱 I'm currently learning Java 
 
-- 💞️ I'm hoping to fine a field which best suits my skills
+- 💞️ I enjoy playing video game and watching sports
 
 - 📫 Reach me via gsg6659@email.vccs.edu
 
