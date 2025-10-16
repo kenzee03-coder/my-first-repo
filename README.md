@@ -7,7 +7,7 @@ A repository for learning GitHub.
 
 - 🌱 I'm currently learning Java 
 
-- 💞️ I enjoy playing video games and watching sports such as baseball and football
+- 💞️ I enjoy playing video games and watching sports
 
 - 📫 Reach me via gsg6659@email.vccs.edu
 
